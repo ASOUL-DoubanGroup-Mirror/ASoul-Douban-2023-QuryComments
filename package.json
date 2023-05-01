@@ -1,0 +1,19 @@
+{
+  "name": "douban-asoul-2023_april",
+  "version": "1.0.0",
+  "description": "Quickly query one's commments in Douban ASoul-Group",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "asoul",
+    "myfinallove"
+  ],
+  "author": "Wendaolee",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "sqlite3": "^5.1.6"
+  }
+}
